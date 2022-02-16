@@ -1,0 +1,84 @@
+#ctfb1,
+.navbar-ctfb1 {
+	background-color:#000871;
+	color:#FFF;
+}
+#ctfb1 a {
+color:#FFF;.l
+}
+#ctfwrap {
+}
+#ctf {
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,7db9e8+100 */
+background: #1e5799; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #1e5799 0%, #7db9e8 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #1e5799 0%,#7db9e8 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #1e5799 0%,#7db9e8 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	padding:40px 80px;
+	
+}
+
+#ctfb1 ul {width:200px;}
+#ctfb1 ul li {
+	
+	font-size:18px;
+	margin-bottom:3px;
+	//height:40px;
+	//width:100px;
+	//margin-left:20px;
+}
+#ctfb1 .section {
+	font-weight:600;
+	font-size:20px;
+	
+}
+
+#ctfb1 .section:not(:first-child) {
+    margin-top:30px !important;
+}
+#ctfb1 ul li a:hover  {
+	text-decoration:none;
+
+}
+a
+{
+text-decoration: none;
+padding: 5px;
+-moz-transition: .3s;
+-webkit-transition: 1s;
+-o-transition: 1s;
+transition: 1s;
+}
+#ctfb1 ul li a
+{
+	font-weight:300;
+color: #FFFFFF;
+text-shadow: none;
+}
+#ctfb1 ul li a:hover
+{
+padding-left: 14px;
+	text-align:right;
+text-shadow: 0 0 15px #FFFFFF;
+transform: scale(1.05);
+}
+
+.style-glow
+{
+color: #FFFFFF;
+font-weight: 700;
+font-size: 18px;
+}
+.style-glow:hover
+{
+}
+
+.btn-primary,
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+  background:#000871;
+}
+
+#fields {
+	background-color:rgba( 200,200,200,.1);
+}
