@@ -82,3 +82,7 @@ font-size: 18px;
 #fields {
 	background-color:rgba( 200,200,200,.1);
 }
+.fa-cart-plus{
+	font-size: 30px;
+	margin: 10px;
+}

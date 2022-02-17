@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <style>
+            #matrix-inputs input {
+                margin: 5px;    
+            }
+        </style>
+    </head>
+    <body>
+ 
+        <button onclick="filter()">Filter</button>
+        <div id="output"></div>
+    </body>
+    <script >
+       
+        let friendsList = [
+            {
+                firstName: 'name1',
+                lastName: 'lastNAME',
+                age: 24,
+                address:'jkbkjfd',
+                place:'dfdf'
+            },
+            {
+                firstName: 'name2',
+                lastName: 'lastNAME2',
+                age: 23,
+                address:'jkbkjfd',
+                place:'dfdf'
+            },
+            {
+                firstName: 'name3',
+                lastName: 'lastNAME3',
+                age: 25,
+                address:'jkbkjfd',
+                place:'dfdf'
+            },
+            {
+                firstName: 'name5',
+                lastName: 'lastNAME5',
+                age: 23,
+                address:'jkbkjfd',
+                place:'dfdf'
+            }
+        ]
+
+        function filter () {
+            // friendsList.forEach(user => {
+            //     if(user.age ==25) {
+            //         document.getElementById('output').innerHTML += user.firstName
+            //     } 
+            // })
+            // const users = friendsList.filter(p =>p.age >= 24)
+            // users.forEach(user => {
+            //     document.getElementById('output').innerHTML += user.firstName
+            // })     
+        }
+
+
+
+    </script>
+</html>
